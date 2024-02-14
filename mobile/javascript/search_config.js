@@ -1,0 +1,1 @@
+﻿var textForPages = ["Contoh Flipbook","Contoh Halaman Flipbook Berisi Video","Contoh Halaman Flipbook Berisi Kutipan Artikel"];
